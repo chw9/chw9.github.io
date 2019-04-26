@@ -1,0 +1,13 @@
+.highlightText {
+	background-color:#c6b3ce;
+	color:white;
+	width:37%;
+	text-align:center;
+	padding:1px;
+}
+
+.title {
+	text-align:center;
+	color:blue;
+	background-color:red;
+}
