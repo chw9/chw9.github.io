@@ -10,8 +10,30 @@
 	text-align:center;
 	color:blue;
 	background-color:red;
+	font-family: 'Assistant', thin;
 }
 
 .image {
 	align-content:center;
+}
+
+.email {
+	text-align:center;
+	color:#fc53da;
+	font: 'Shadows Into Light';
+}
+
+.form {
+	color: red;
+	text-align: center;
+}
+
+.link {
+	text-align:center;
+}
+
+.line {
+	color:#fffff;
+	border-width:5px;
+	<!-- border-color:red; -->
 }
